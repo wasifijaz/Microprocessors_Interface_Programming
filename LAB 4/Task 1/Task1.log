@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo10 -N"D:\Education\Semester 5\MPI Lab\LAB 4\Task 1\Task1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Education\Semester 5\MPI Lab\LAB 4\Task 1\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Task1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Task1.c
+warning: 151	1503	Result is not defined in function: 'keyreading'	Task1.c
+diagnostics: 151	123	Compiled Successfully	Task1.c
+hint: 113	1164	Variable 'key' has been eliminated by optimizer	Task1.c
+diagnostics: 0	127	All files Compiled in 46 ms	 
+hint: 0	1144	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)
+hint: 0	1144	Used ROM (program words): 431 (5%)  Free ROM (program words): 7761 (95%)	Used ROM (program words): 431 (5%)  Free ROM (program words): 7761 (95%)
+diagnostics: 0	125	Project Linked Successfully	Task1.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'Task1.mcppi' completed: 94 ms	 
+diagnostics: 0	103	Finished successfully: 13 Oct 2020, 16:15:25	Task1.mcppi
