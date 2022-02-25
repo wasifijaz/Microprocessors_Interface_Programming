@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\..\LAB 1\TASK 1\Lab1.mcppi
+Project1=..\Task 1\MyProject.mcppi
+Project2=MyProject.mcppi
+[ActiveProject]
+Index=2
