@@ -80,9 +80,10 @@ Write a program that uses Timer1 to generate a square wave on PORTD.5, while at 
 #### Task 2
 Assume that clock pulses are fed into the TICK1 pin and an alram led is connected on PORTB.0. Write a program for counter 1 to power up the alarm led after every 100 pulses.
 ### Lab 14
-####
+#### ADC using PIC16F877 Microcontroller
 #### Task 1
-
+Modify the code in lab so that ADC can be used to turn on an LED when ADC input voltage is greater than 2.5 volts and turns off when when voltage falls below 2.5V.
 ### Lab 15
-####
+#### Stepper Motor Control using PIC16F877 Microcontroller
 #### Task 1
+Modify this code such that stepper motor starts rotating like a DC motor.
