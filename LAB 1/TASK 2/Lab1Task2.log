@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo10 -N"D:\Education\Semester 5\MPI Lab\Lab1Task2.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"D:\Education\Semester 5\MPI Lab\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Lab1Task2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Lab1Task2.c
+diagnostics: 15	123	Compiled Successfully	Lab1Task2.c
+diagnostics: 0	127	All files Compiled in 265 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 12 (1%)  Free ROM (program words): 8180 (99%)	Used ROM (program words): 12 (1%)  Free ROM (program words): 8180 (99%)
+diagnostics: 0	125	Project Linked Successfully	Lab1Task2.mcppi
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'Lab1Task2.mcppi' completed: 453 ms	 
+diagnostics: 0	103	Finished successfully: 22 Sep 2020, 16:33:39	Lab1Task2.mcppi
